@@ -1,5 +1,5 @@
 /*
-   
+   Me permite dado un valor base , presentar el numero elevado a un valor que nosotros le ponemos.
  */
 package ejemplos01;
 
